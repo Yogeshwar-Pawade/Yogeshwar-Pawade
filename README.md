@@ -47,5 +47,8 @@ Explore these channels for valuable learning resources!
 
 Feel free to explore my repositories and connect with me! Let's build something amazing together. 😊🚀
 <p align="left">
-<a href="https://www.linkedin.com/in/yogipaw/" target="blank"><img align="center" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/yogipaw/" target="_blank">
+        <i class="fab fa-linkedin" style="font-size: 30px; color: #0e76a8;"></i>
+    </a>
 </p>
+
