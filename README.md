@@ -50,4 +50,3 @@ Feel free to explore my repositories and connect with me! Let's build something 
 <a href="https://www.linkedin.com/in/yogipaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
-https://www.linkedin.com/in/yogipaw/
